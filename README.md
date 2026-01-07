@@ -3,6 +3,11 @@
   Full-Stack Developer • Cybersecurity Enthusiast • CS Undergraduate
 </h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+</p>
+
+
 <hr/>
 
 <h2>🚀 About Me</h2>
@@ -24,10 +29,11 @@
 
 <h3>👨‍💻 Programming Languages</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 </p>
 
 <h3>🌐 Web Development</h3>
@@ -52,6 +58,13 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+<h3>🌐 Connect With Me<h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/naresh-p-v-a3a7692a1/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
+<a href="mailto:nareshpv.2022@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a>
+<a href="https://github.com/Naro56"><img src="https://skillicons.dev/icons?i=github" width="40"></a>
 </p>
 
 <hr/>
